@@ -1,0 +1,10 @@
+Because it's been the standard for a long time,It's better in every way,It's the most cost effective,It's the only option
+Because of the way you install programs,Because of it's age,Because it dosen't come with any default firewall,Because it is closed source
+C:\,/,C:/,C
+Not much mainly UI changes,Windows 11 is a completly new OS,Windows 11 is for quantum computers,Windows 11 is based on linux
+The consumer version of windows has more features that slow down the os and lacks importaint management features,Only windows server has a configurable firewall,Consumer windows can't be acessed remotely,Windows server dosent have a gui
+Powershell is newer and has more features,Powershell can simulate linux,CMD is newer and has more features,They are the same but one is blue
+dir,show files,ls dir,get-files
+Windows Firewall,Windows Network Gaurd,Sheild +,Norton
+An anti-virus,A firewall,A loging tool,A VPN
+Shows network information,Configures network settings,Manages files,Tests the internet connection

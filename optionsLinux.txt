@@ -1,0 +1,10 @@
+ls,list /,showall,pwd
+ls [0-9]*.log,list 0-9 .log,locate *0-9*.log,ls 0-9*.log
+debian,arch,fedora,temple os
+advanced package tool,pacman,nix,dandified yellowdog updater modified
+top,ps,process --list,taskmanager
+webserver,firewall,webbrowser,anti-virus
+22,8080,80,1111
+visudo,sudo --config,nano /etc/sudoers,config sudo
+:q!,you can't.,/exit,<esc>
+STDERR,STDALL,STDIO,STDBUF

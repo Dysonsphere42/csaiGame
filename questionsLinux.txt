@@ -1,0 +1,10 @@
+How could you list all files and subdirectories in your current directory?
+Using one command (no pipe operator, semicolon etc...) how would you list all files in the working directory starting with a digit and ending in .log?
+What disto is Ubuntu based on?
+What package manager does debian use?
+How would you list all currently running processes?
+What type of program is nginx?
+What port do ssh connections usually use?
+How do you edit the sudoers file?
+How do you exit vim?
+What is missing from this list: STDIN STDOUT

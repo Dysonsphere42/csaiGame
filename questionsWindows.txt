@@ -1,0 +1,10 @@
+Why is windows so widely used?
+Why is windows generally less secure than other operating systems?
+What is the root directory in windows?
+What is the difference between windows 10 and windows 11
+Why is it not advisable to run a consumer version of windows as a dedicated server?
+What is the difference between powershell and command prompt?
+What is the alternative to the linux ls command for windows?
+What is the default firewall that comes with windows?
+What type of program is Windows defender?
+What does the ipconfig command do?
